@@ -3,7 +3,8 @@ layout: post
 title: Plugin's architecture
 ---
 
-Zsh plugins may look scary, as they seem to have some "architecture". But in fact, plugins are really simple.
+Zsh plugins may look scary, as they seem to have some sophisticated "architecture".
+But in fact, plugins are really simple.
 
 What a plugin actually is, is that:
 
