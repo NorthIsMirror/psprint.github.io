@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fixing TMux, Screen and Linux's VT
-date: 2016-05-23 11:05
 ---
 
 If `TERM=screen-256color` (often the case for `tmux` and `screen` sessions) then
