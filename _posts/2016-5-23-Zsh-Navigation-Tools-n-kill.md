@@ -46,4 +46,4 @@ znt_kill_keywords=( "git" "git commit" "vim" "firefox" "mplayer" )
 
 View on [asciinema](https://asciinema.org/a/46457)
 
-[![asciicast](https://asciinema.org/a/46457.png)](https://asciinema.org/a/46457)
+<script type="text/javascript" src="https://asciinema.org/a/46457.js" id="asciicast-46457" async></script>
