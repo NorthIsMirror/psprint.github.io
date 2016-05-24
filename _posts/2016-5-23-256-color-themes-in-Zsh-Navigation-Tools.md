@@ -3,7 +3,8 @@ layout: post
 title: 256-color themes in Zsh Navigation Tools
 ---
 
-`Zsh Navigation Tools` support color themes that can be tried out by
+[Zsh Navigation Tools](https://github.com/psprint/zsh-navigation-tools)
+support color themes that can be tried out by
 pressing `Ctrl-T` (next theme) and `Ctrl-G` (previous theme). They
 are configured via `themes` variable (array) in
 `~/.config/znt/n-list.conf`:
