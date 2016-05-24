@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 256 color themes in Zsh Navigation Tools
+title: 256-color themes in Zsh Navigation Tools
 ---
 
 `Zsh Navigation Tools` support color themes that can be tried out by
