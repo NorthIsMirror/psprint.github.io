@@ -37,4 +37,4 @@ Next are some implementation details – snippets are apparently kept in
 
 As we can see, reports allow us to recognize code we are introducing to
 our system. `Zplugin` has more ways of doing that – commands: `recently`,
-`changes`, `glance`, `stress`.
+`changes`, `glance`, `edit`, `stress`.
