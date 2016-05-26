@@ -20,6 +20,8 @@ The blog is dedicated to my [Zshell](http://zsh.sourceforge.net) projects which 
   zsh session restoration
 * [history-search-multi-word](https://github.com/psprint/history-search-multi-word) –
   multi-term history searching for Zsh
+* [zsh-select](https://github.com/psprint/zsh-select) –
+  selection list written in pure Zsh
 
 ### Contact me
 
