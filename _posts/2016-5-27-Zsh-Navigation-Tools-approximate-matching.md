@@ -13,6 +13,6 @@ autocorrection to work. Main difference between the feature and fuzzy
 matching is that entries are still sorted in order found in e.g.
 history, not according to similarity between what is entered and found.
 
-View on [asciinema](https://asciinema.org/a/47089)
+View on [asciinema](https://asciinema.org/a/47089). You can resize the video by pressing `Ctrl-+` or `Cmd-+`.
 
 <script type="text/javascript" src="https://asciinema.org/a/47089.js" id="asciicast-47089" async></script>

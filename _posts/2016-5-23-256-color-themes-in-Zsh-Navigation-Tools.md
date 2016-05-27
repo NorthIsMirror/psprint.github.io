@@ -43,6 +43,6 @@ themes=( "white/17/0" "10/17/1" "white/24/1" "white/22/0"
 You can also set the `themes` array via `zshrc`, via `znt_list_themes`
 variable.
 
-View on [asciinema](https://asciinema.org/a/46477)
+View on [asciinema](https://asciinema.org/a/46477). You can resize the video by pressing `Ctrl-+` or `Cmd-+`.
 
 <script type="text/javascript" src="https://asciinema.org/a/46477.js" id="asciicast-46477" async></script>

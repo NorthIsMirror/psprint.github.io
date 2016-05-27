@@ -44,6 +44,6 @@ znt_kill_keywords=( "git" "git commit" "vim" "firefox" "mplayer" )
 
 ### Video
 
-View on [asciinema](https://asciinema.org/a/46457)
+View on [asciinema](https://asciinema.org/a/46457). You can resize the video by pressing `Ctrl-+` or `Cmd-+`.
 
 <script type="text/javascript" src="https://asciinema.org/a/46457.js" id="asciicast-46457" async></script>

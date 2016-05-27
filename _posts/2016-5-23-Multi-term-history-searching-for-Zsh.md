@@ -10,6 +10,6 @@ Based on `zle recursive-edit`, it's a nice, small piece of code that will
 integrate smoothly with Zshell instead of providing a full-screen Curses
 interface.  Highlighting of what is matched is still supported.
 
-View on [asciinema](https://asciinema.org/a/46371)
+View on [asciinema](https://asciinema.org/a/46371). You can resize the video by pressing `Ctrl-+` or `Cmd-+`.
 
 <script type="text/javascript" src="https://asciinema.org/a/46371.js" id="asciicast-46371" async></script>
