@@ -22,6 +22,8 @@ The blog is dedicated to my [Zshell](http://zsh.sourceforge.net) projects which 
   multi-term history searching for Zsh
 * [zsh-select](https://github.com/psprint/zsh-select) –
   selection list written in pure Zsh
+* [zsh-morpho](https://github.com/psprint/zsh-morpho) –
+  terminal screen savers written in pure Zsh
 
 ### Contact me
 
