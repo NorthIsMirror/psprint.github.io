@@ -24,6 +24,8 @@ The blog is dedicated to my [Zshell](http://zsh.sourceforge.net) projects which 
   selection list written in pure Zsh
 * [zsh-morpho](https://github.com/psprint/zsh-morpho) –
   terminal screen savers written in pure Zsh
+* [zprompts](https://github.com/psprint/zprompts) –
+  independent themes for Zsh
 
 ### Contact me
 
