@@ -26,6 +26,8 @@ The blog is dedicated to my [Zshell](http://zsh.sourceforge.net) projects which 
   terminal screen savers written in pure Zsh
 * [zprompts](https://github.com/psprint/zprompts) –
   independent themes for Zsh
+* [zzcomplete](https://github.com/psprint/zzcomplete) –
+  a completion mechanism that uses manual pages as source
 
 ### Contact me
 
