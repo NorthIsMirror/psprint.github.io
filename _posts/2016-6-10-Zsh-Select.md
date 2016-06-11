@@ -21,7 +21,7 @@ to external programs such as `sed`, and peformance is high – handled are 120
 The file `zsh-select` can be copied to any bin directory. `Zsh` will serve as
 say `Ruby`, and `zsh-select` will be a regular program available in system.
 
-View on [asciinema](https://asciinema.org/a/46955). You can resize the video by pressing `Ctrl-+` or `Cmd-+`.
+View on [asciinema](https://asciinema.org/a/48490). You can resize the video by pressing `Ctrl-+` or `Cmd-+`.
 
-<script type="text/javascript" src="https://asciinema.org/a/46955.js" id="asciicast-46955" async></script>
+<script type="text/javascript" src="https://asciinema.org/a/48490.js" id="asciicast-48490" async></script>
 
