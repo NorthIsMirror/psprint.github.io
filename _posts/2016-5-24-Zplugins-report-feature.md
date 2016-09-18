@@ -3,7 +3,7 @@ layout: post
 title: Zplugin's report feature
 ---
 
-One of main [Zplugin's](https://github.com/psprint/zplugin) fatures is
+One of main [Zplugin's](https://github.com/psprint/zplugin) features is
 reporting. It's possible to quickly recognize what plugin does,
 provides, how to use it. Let's see plugin `willghatch/zsh-snippets` as
 an example. It's report (obtained via `zplugin report
